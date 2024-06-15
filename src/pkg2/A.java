@@ -3,8 +3,9 @@ package pkg2;
 public class A {
 	
 	A(){
-		new A(10);
+		new A(10);// object 
 		System.out.println("0 arg constructor");
+		System.out.println("local change");
 	}
 	
 	A(int arg){
