@@ -5,6 +5,7 @@ public class A {
 	A(){
 		new A(10);
 		System.out.println("0 arg constructor");
+		System.out.println("0 arg constructor");
 	}
 	
 	A(int arg){
