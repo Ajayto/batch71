@@ -23,7 +23,11 @@ public class A {
 		this();
 		System.out.println("3 arg constructor");
 	}
-	
+
+	A(int a,int b,int c, int d){
+		this();
+		System.out.println("4 arg constructor");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
