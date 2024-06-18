@@ -8,7 +8,7 @@ public class Test1 {
 	public static void main(String[] args) throws FileNotFoundException {
 		// TODO Auto-generated method stub
 		TestJava.test.m1();
-		String;
+		
       
       
 	}

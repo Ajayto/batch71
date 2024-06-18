@@ -6,7 +6,7 @@ public class MethodInJava {
 		// TODO Auto-generated method stub
 		MethodInJava m= new MethodInJava();
 		//m.printData(20,20.20f);// calling method
-          int result= m.add(20,30);
+          String result= m.add(20,30);
           System.out.println(result+100);
         
 	}
@@ -16,6 +16,8 @@ public class MethodInJava {
 	// number of digit 
 	
 	int getCountOfDigit(int number){
+		
+		return 1;
 		
 		//code to count digit
 		
