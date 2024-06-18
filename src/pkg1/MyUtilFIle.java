@@ -1,6 +1,6 @@
 package pkg1;
 
-public class util {
+public class MyUtilFIle {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
