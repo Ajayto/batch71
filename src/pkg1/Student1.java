@@ -26,7 +26,7 @@ public class Student1 {
 	
 	static void m1() {
 		System.out.println("this is m1 method");
-		this.m2();
+		m2();
 	}
 	
 	static void m2() {
