@@ -9,7 +9,8 @@ public class util {
 	}
 	
 	void readFile() {
-		//readFile
+		//readFile 
+		//we use file stream to read data from file 
 	}
 
 }
