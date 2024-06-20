@@ -12,8 +12,6 @@ public class MyUtilFIle {
 		//readFile 
 		//we use file stream to read data from file 
 		
-		//we use file stream to read data from file 
-		//we use file stream to read data from file 
-	}
+			}
 
 }
