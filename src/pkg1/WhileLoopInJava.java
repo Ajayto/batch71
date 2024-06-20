@@ -10,10 +10,11 @@ public class WhileLoopInJava {
 		while(givenNumber>0) {
 			count++;  //2
 			givenNumber=givenNumber/10;  //123
+
 		}
 		System.out.println(count);
 
-		
+
 	}
 
 }

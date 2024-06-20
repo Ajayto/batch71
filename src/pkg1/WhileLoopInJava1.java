@@ -6,11 +6,11 @@ public class WhileLoopInJava1 {
 		// TODO Auto-generated method stub
 		
 		//
-		int number=1234777777;
+		int inputNumber=1234777777;
 		int count=0;
-		while(number>0) {	
+		while(inputNumber>0) {	
 		count++;
-		number=number/10;
+		inputNumber=inputNumber/10;
 		}
 		System.out.println(count);
 	}
