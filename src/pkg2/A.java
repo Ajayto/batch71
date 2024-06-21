@@ -34,5 +34,11 @@ public class A {
 		A a= new A();
 
 	}
+     // this is new chnage 
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		A a= new A();
+
+	}
 
 }
