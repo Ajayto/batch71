@@ -2,13 +2,22 @@ package test;
 
 
 public class Demo {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String s="Ajay";
-		String s2=new String("Ajay");
-		System.out.println(s.equals(s2));
 		
+		String s="100s";
+		String a=s.valueOf();
+		System.out.println(a);
+		
+		
+//		String str="this /is /java program";
+//		 String [] abc= str.split("/", 4);
+//		 System.out.println(abc.length);
+//		 System.out.println(abc[0]);
+//		 System.out.println(abc[1]);
+//		 System.out.println(abc[2]);
+		//String newString= str.replace('a', 'z');
+	
 		
 		
 //		Bank b= new Bank();

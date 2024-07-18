@@ -4,7 +4,13 @@ public class DemoThrows {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		B b= new B();
+		try {
+		b.print();
+		}
+		catch (InterruptedException e) {
+			// TODO: handle exception
+		}
 	}
 
 }
