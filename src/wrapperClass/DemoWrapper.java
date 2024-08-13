@@ -4,7 +4,7 @@ public class DemoWrapper {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String s="123abc%%&%";
+		String s="	%%&%";
 		StringBuffer number= new StringBuffer();
 		StringBuffer latters= new StringBuffer();
 		char[] charArray=s.toCharArray();
